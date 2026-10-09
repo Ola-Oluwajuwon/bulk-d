@@ -20,6 +20,14 @@
   ],
   "license": "ISC",
   "author": "Oluwajuwon Kayode (godfella)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ola-Oluwajuwon/bulk-d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ola-Oluwajuwon/bulk-d/issues"
+  },
+  "homepage": "https://github.com/Ola-Oluwajuwon/bulk-d#readme",
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
