@@ -256,4 +256,4 @@ Transforms rows against a confirmed column mapping without querying AI.
 
 ## License
 
-ISC © [Oluwajuwon Kayode (godfella)](https://github.com/godfella)
+ISC © [Oluwajuwon Kayode (Godfella)](https://github.com/Ola-Oluwajuwon)
