@@ -1,0 +1,38 @@
+{
+  "name": "bulk-d",
+  "version": "1.0.0",
+  "description": "Utility package to upload existing data from spreadsheet to your apps",
+  "keywords": [
+    "bulk-upload",
+    "spreadsheet",
+    "csv",
+    "xlsx",
+    "excel",
+    "ai-mapping",
+    "schema-mapping",
+    "data-import",
+    "llm",
+    "zod"
+  ],
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "license": "ISC",
+  "author": "Oluwajuwon Kayode (godfella)",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "papaparse": "^5.7.0",
+    "xlsx": "^0.18.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
