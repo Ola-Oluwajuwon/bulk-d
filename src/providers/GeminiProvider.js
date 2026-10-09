@@ -14,7 +14,7 @@ class GeminiProvider extends BaseProvider {
    */
   constructor(config = {}) {
     super(config);
-    this.model = config.model || 'gemini-1.5-flash';
+    this.model = config.model || 'gemini-3.1-flash-lite';
 
     if (!this.apiKey) {
       throw new ProviderError('Google Gemini provider requires an apiKey.', { provider: 'google' });
